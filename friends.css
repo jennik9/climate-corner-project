@@ -1,0 +1,52 @@
+p{
+margin-left: 1100px;
+margin-bottom: -10px;
+}
+
+p{
+  font-size: 30px;
+}
+
+button{
+width:100px;
+background-color: #80ffaa;
+}
+
+body{
+  height: 150px;
+  border-radius: 5px;
+  background: linear-gradient(to top, #ccffff 0%, #99ccff 100%)
+}
+
+html {
+ background:  url(https://i.giphy.com/media/jWsQNUItU01l6/giphy.webp) no-repeat center center fixed;
+ background-size: cover;
+}
+
+
+h1{
+  padding-top: 5px;
+  padding-left: 15px;
+  color: #0033cc
+}
+
+h2{
+  padding-left: 15px;
+  color: #0033cc
+}
+
+p{
+  color: #003399
+}
+
+h3 {
+  color: #002699
+}
+
+.message-top {
+  float: top;
+}
+
+.friends {
+  background-color: #ffffff
+}

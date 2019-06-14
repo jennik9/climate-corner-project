@@ -1,0 +1,55 @@
+html {
+  background:  url(https://data.whicdn.com/images/212590965/original.gif) no-repeat center center fixed;
+  background-size: cover;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+h1{
+  text-shadow: 2px green;
+}
+
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 10px;
+  height: 700px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+ #turtle1{
+   height: 250;
+   width: 200;
+ }
+
+ #turtle2{
+   height:350px;
+   width:300px;
+   margin-bottom: -10px;
+ }
+
+img{
+  height:200px;
+  width:150px;
+  object-fit: cover;
+
+}
+button {
+  background-color:  #66ff66; /* Green */
+  border: none;
+  color: black;
+  padding: 15px 30px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+
+}

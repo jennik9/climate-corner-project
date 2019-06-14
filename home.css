@@ -1,0 +1,118 @@
+html {
+ background: url(https://media2.giphy.com/media/l1KVcrdl7rJpFnY2s/giphy.gif)
+no-repeat center center fixed;
+background-size: cover;
+}
+h1{
+  font-style: italic;
+  text-align: center;
+  font-size: 85px;
+  border-color: #33cccc;
+  border-style: double;
+  border-radius: 50px;
+}
+h1{
+  /* color: #318161 */
+  /* color: #3fa67d */
+  color: #7eceae
+}
+.content{
+  margin-top: 100px;
+  /* margin-bottom: -100px; */
+  border: 3px solid black;
+  width: 500px;
+  height: 700px;
+  border-color: #7eceae;
+}
+.content{
+  border-style: dashed;
+}
+.new-project{
+  margin: 20px;
+  width: 200px;
+}
+h2{
+  font-size: 40px;
+  font-family: 'Shadows Into Light', cursive;
+  color: #2aa22a;
+}
+h3{
+   text-align: center;
+   color: #66ff66;
+   font-size: 30px;
+}
+
+h4{
+  text-align: center;
+  font-size: 28px;
+  color: white;
+  font-family: 'Yatra One', cursive;
+}
+
+p{
+  text-align: center;
+  font-size: 23px;
+  color: white;
+  font-family: 'Yatra One', cursive;
+}
+
+
+button {
+ background-color:  #66ff66; /* Green */
+ border: black;
+ border-style: solid;
+ color: black;
+ /* padding: 15px 30px; */
+ text-align: center;
+}
+button{
+ /* text-decoration: inherit; */
+ /* display: inline-block; */
+ font-size: 16px;
+ font-family: 'Indie Flower', cursive;
+}
+
+.list-title{
+  font-size: 30px;
+  color: #00e6e6;
+  text-align: center;
+}
+
+ul{
+  font-size: 20px;
+  color: #e6e6e6;
+}
+
+.challenges{
+  border-style: groove;
+  border-color: #66ff66;
+  margin-top: 50px;
+  width: 500px;
+  height: 1450px;
+}
+.challenges{
+  border-radius: 45px;
+  font-style: oblique;
+}
+
+h6{
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+
+a{
+  color: #d9d9d9;
+  text-align: center;
+}
+.current{
+  border-color: #ccffcc;
+  border-style: dotted;
+  width: 500px;
+  float: right;
+  margin-top: 575px;
+}
+
+.current{
+
+}
